@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **web development, java...**
 
-- 👨‍💻 All of my projects are available at [... in progress ...](... in progress ...)
+- 👨‍💻 All of my projects are available at ... in progress ...
 
 - 📫 How to reach me : **letruyenduc@gmail.com**
 
