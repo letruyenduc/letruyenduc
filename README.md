@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Truyên Duc</h1>
 <h3 align="center">A passionate frontend developer from France</h3>
 
-- 🔭 I’m currently working on **my portfolio**
+- 🔭 I’m currently working on **my portfolio.. maybe a roblox game**
 
-- 🌱 I’m currently learning **Python, Web, C, SQL ...**
+- 🌱 I’m currently learning **Python, Web, C, SQL, Lua, LuaU...**
 
 - 🤝 I’m looking for help with **web development, java...**
 
