@@ -11,7 +11,7 @@
 
 - 📫 How to reach me : **letruyenduc@gmail.com**
 
-- 📄 Know about my experiences [✨ my curriculum vitæ ✨](https://drive.google.com/file/d/1FeKBpWNmeRU2InXtYb8tYxK-Ikex711T/view?usp=sharing)
+- 📄 Know about my experiences [✨ my curriculum vitæ ✨](https://drive.google.com/file/d/16Q1hpq-aQJviwXcJyqJcGsvD5m3PeBfa/view?usp=drive_link)
 
 - ⚡ Fun fact **I don't bite, don't hesitate :))**
 
