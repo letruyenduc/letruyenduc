@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **my portfolio.. maybe a roblox game**
 
-- 🌱 I’m currently learning **Python, Web, C, SQL, Lua, LuaU...**
+- 🌱 I’m currently learning **Python, Javascript, Web, C, SQL, Lua, LuaU...**
 
 - 🤝 I’m looking for help with **web development, java...**
 
