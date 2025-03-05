@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Truyên Duc</h1>
 <h3 align="center">A passionate developer from France</h3>
 
-- 🔭 I’m currently working on **my portfolio.. maybe a roblox game**
+- 🔭 I’m currently working on **my portfolio..**
 
 - 🌱 I’m currently learning **Python, Javascript, Web, C, SQL, Lua, LuaU...**
 
@@ -12,8 +12,6 @@
 - 📫 How to reach me : **letruyenduc@gmail.com**
 
 - 📄 Know about my experiences [✨ my curriculum vitæ ✨](https://drive.google.com/file/d/16Q1hpq-aQJviwXcJyqJcGsvD5m3PeBfa/view?usp=drive_link)
-
-- ⚡ Fun fact **I don't bite, don't hesitate :))**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
